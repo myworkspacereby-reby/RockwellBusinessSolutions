@@ -1,0 +1,6 @@
+{
+  "name": "Rockwell Business Solutions",
+  "description": "Automate Revenue. Cut Operating Costs. Intelligent workflow automation and managed offshore operations for growing enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
